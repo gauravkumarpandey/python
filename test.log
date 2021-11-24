@@ -1,0 +1,6 @@
+2021-11-24 18:36:30,132 - root - DEBUG - test
+2021-11-24 18:44:34,267 - root - DEBUG - debug message here..
+2021-11-24 18:44:34,271 - root - INFO - info message here..
+2021-11-24 18:44:34,271 - root - WARNING - warning message here..
+2021-11-24 18:44:34,271 - root - ERROR - Error message here..
+2021-11-24 18:44:34,275 - root - CRITICAL - Critical message here..
